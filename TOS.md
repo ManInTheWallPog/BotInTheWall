@@ -26,7 +26,7 @@ Do not use the bot for spamming or any other disruptive behavior.
 
 ## 4. Privacy
 ### a. Data Collection
-BotInTheWall may collect and store limited user data, such as DiscordID, DiscordUsername for operational purposes. If you choose to use other functionalities that require user settings (such as setting up Snipers), additional Data may be collected. You can request the removal of all associated data by contacting .maninthewall on Discord. Refer to our [Privacy Policy]()for more information.
+BotInTheWall may collect and store limited user data, such as DiscordID, DiscordUsername for operational purposes. If you choose to use other functionalities that require user settings (such as setting up Snipers), additional Data may be collected. You can request the removal of all associated data by contacting .maninthewall on Discord. Refer to our [Privacy Policy](https://github.com/ManInTheWallPog/BotInTheWall/blob/main/Privacy.md)for more information.
 
 ### b. Security
 While we take measures to secure your data, we cannot guarantee absolute security. Use BotInTheWall at your own risk.
