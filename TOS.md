@@ -1,6 +1,6 @@
 # BotInTheWall - Terms of Service
 
-**Last Updated:** January 15, 2024
+**Last Updated:** January 16, 2024
 
 Welcome to BotInTheWall! Before you start using the Discord bot, please carefully read and understand the following Terms of Service ("TOS"). By using BotInTheWall, you agree to comply with these terms. If you do not agree with any part of these terms, please refrain from using the bot.
 

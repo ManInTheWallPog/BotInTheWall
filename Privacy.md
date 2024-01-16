@@ -1,6 +1,6 @@
 # BotInTheWall - Privacy Notice
 
-**Last Updated:** January 15, 2024
+**Last Updated:** January 16, 2024
 
 Thank you for using BotInTheWall! This Privacy Notice explains how we collect, use, and safeguard your information when you use our Discord bot. By using BotInTheWall, you agree to the terms outlined in this notice.
 
