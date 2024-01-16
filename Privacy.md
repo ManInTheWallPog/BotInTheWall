@@ -7,10 +7,10 @@ Thank you for using BotInTheWall! This Privacy Notice explains how we collect, u
 ## 1. Information We Collect
 
 ### a. User Data
-We may collect and store limited user data, including Discord user IDs and server information, for operational purposes. This data is used to provide and improve the functionality of BotInTheWall.
+We collect and store limited user data, including Discord user IDs, Discord Server IDs and Discord Channel IDs, for operational purposes. This data is used to provide and improve the functionality of BotInTheWall.
 
 ### b. Usage Information
-We may collect information about how you interact with BotInTheWall, including commands used and frequency of usage. This data helps us understand user preferences and improve the user experience.
+We log information about how you interact with BotInTheWall, including commands used and frequency of usage. This data helps us understand user preferences and improve the user experience.
 
 ## 2. How We Use Your Information
 
@@ -18,6 +18,7 @@ We use the collected information for the following purposes:
 
 - To operate and maintain BotInTheWall.
 - To personalize user experience and improve our services.
+- To allow for custom alerts.
 - To respond to user inquiries and provide support.
 - To monitor the usage of BotInTheWall and identify potential issues.
 
@@ -25,9 +26,9 @@ We use the collected information for the following purposes:
 
 We take reasonable measures to protect the information collected from unauthorized access or disclosure. However, please be aware that no method of transmission over the internet or electronic storage is completely secure.
 
-## 4. Third-Party Services
+## 4. Data Deletion
 
-BotInTheWall may utilize third-party services for data collection and analysis. These services have their own privacy policies, and we encourage you to review them.
+All user data is deleted after not using any commands for the last 30 days. Additionally, you can delete your data via the `/profile_delete` command or by messaging .maninthewall on Discord.
 
 ## 5. Changes to This Privacy Notice
 

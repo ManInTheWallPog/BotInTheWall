@@ -31,6 +31,10 @@ BotInTheWall may collect and store limited user data, such as DiscordID, Discord
 ### b. Security
 While we take measures to secure your data, we cannot guarantee absolute security. Use BotInTheWall at your own risk.
 
+### b. Data Deletion
+
+All user data is deleted after not using any commands for the last 30 days. Additionally, you can delete your data via the `/profile_delete` command or by messaging .maninthewall on Discord.
+
 ## 5. Intellectual Property
 ### a. Ownership
 BotInTheWall and its content are the property of the developers. You agree not to reproduce, distribute, or create derivative works without explicit permission.
